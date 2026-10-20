@@ -4,7 +4,7 @@ Projeto de autenticação via consola desenvolvido em Java, aplicando laços de 
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - *Validação de Credenciais*: Confere utilizador e palavra-passe definidos no sistema.
 - *Laço de Repetição*: Mantém o pedido de login ativo até que o acesso seja concedido.
@@ -12,7 +12,7 @@ Projeto de autenticação via consola desenvolvido em Java, aplicando laços de 
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - *Linguagem*: Java
 - *Ambiente*: Visual Studio Code
@@ -20,7 +20,7 @@ Projeto de autenticação via consola desenvolvido em Java, aplicando laços de 
 
 ---
 
-## 🔧 Como Executar
+##  Como Executar
 
 1. Clona o repositório:
    ```bash
